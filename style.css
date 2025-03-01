@@ -858,6 +858,10 @@ footer{
     .footer_logo{
         width: 100%;
     }
+    
+    .footer_logo img{
+    height: 40px;
+    }
 
     .footer_logo p{
         font-size: 17px;
