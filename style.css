@@ -119,7 +119,8 @@
 /*  mobile  Responsive menu   */
 
 nav{
-    padding: 10px 30px;
+/*     padding: 10px 30px; */
+    padding: 0px 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
