@@ -153,6 +153,13 @@ nav ul li {
     color: #E5322D;
 }
 
+#menulist button:hover{
+    background-color: #E5322D;
+    color: white;
+    transition: 0.3s;
+
+}
+
 
 nav ul li a{
     text-decoration: none;
